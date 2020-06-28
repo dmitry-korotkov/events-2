@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/vb9t126ovo7p7loq?svg=true)](https://ci.appveyor.com/project/dmitry-korotkov/events-2)
